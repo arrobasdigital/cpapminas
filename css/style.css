@@ -41,6 +41,16 @@ video {
   display: block;
 }
 
+.faq-whatsapp-link {
+  color: #006ee6;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.faq-whatsapp-link:hover {
+  color: #004fa8;
+}
+
 a {
   color: inherit;
   text-decoration: none;
