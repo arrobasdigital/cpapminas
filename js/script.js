@@ -1,6 +1,6 @@
 (function () {
   const config = window.CPAP_CONFIG || {};
-  const whatsappNumber = config.whatsappNumber || "5531983818037";
+  const whatsappNumber = config.whatsappNumber || "5531983653829";
   const defaultMessage = config.defaultMessage || "Olá, vim do Google e gostaria de falar com a CPAP Minas.";
 
   const $ = (selector, context = document) => context.querySelector(selector);
